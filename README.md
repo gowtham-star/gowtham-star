@@ -8,8 +8,7 @@
 - ⚙️ I worked at Oracle, LTI as a Java Developer and Machine Learning engineer
 - 🌱 Learning all about **Software System Design**
 - 💬 Ping me about **System Design**, **Web Development**, **Mentoring**
-- 📫 Reach me: 
-<p align="center">
+- 📫 Reach me <p align="center">
   <a href="https://www.linkedin.com/in/gowthamtnvs" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
