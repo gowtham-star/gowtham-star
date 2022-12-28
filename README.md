@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer Studying at Georgia State, USA.
+#### I'm a CS Grad Studying at Georgia State, USA.
 
 ##### BIO
 
