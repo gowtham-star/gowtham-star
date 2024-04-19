@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as a research assistant at [ARCTIC](https://arctic.gsu.edu) Georgia State University
+- 🏢 I'm currently working as a software engineering intern at Tesla
 - ⚙️ I worked at Oracle, LTI as a Java Developer and Machine Learning engineer
 - 🌱 Learning all about **Software System Design**
 - 💬 Ping me about **System Design**, **Web Development**, **Mentoring**
